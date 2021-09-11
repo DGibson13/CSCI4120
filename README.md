@@ -12,3 +12,5 @@ to use warnings.filterwarnings('ignore') to hide them.
 I did not finish implementing the entire loop. It loops k from 1 through 20, but I did not do the five repititions for average accuracy.
 As a result, I can only make an educated guess for which K has the best accuracy based on what I saw during testing.
 It appeared to me that the k values around 5 seemed to have consistently high accuracy.
+
+I do not know how to create a line chart in a text file, but HW1.ipynb should produce a chart when run in jupyter notebook.
