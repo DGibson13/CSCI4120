@@ -50,5 +50,6 @@ def main():
     plt.plot(k_range,scores_list)
     plt.xlabel('K value')
     plt.ylabel('Testing accuracy')
+    plt.show()
     
 main()
